@@ -2,8 +2,6 @@
 #include <unistd.h>
 /**
  * main - Prints out the last part of a quote in the standard error.
- * 
- * 
  * program that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19
  * Return: 1 if success.
  */
