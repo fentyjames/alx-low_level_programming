@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <main.h>
+#include "holberton"
 /**
  * main - Entry point
  * Print put to char
