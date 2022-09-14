@@ -1,5 +1,8 @@
 #include "main.h"
-/** add - adds two integers and returns the result.
+#include <stdio.h>
+
+/**
+ * add - adds two integers and returns the result.
  *
  * @a: parameter for the add function
  * @b: second parameter of the add function
