@@ -24,6 +24,7 @@ void rev_string(char *s)
  * _strlen - return string length
  * @s: string
  *
+ * Return: String length
  */
 
 int _strlen(char *s)
