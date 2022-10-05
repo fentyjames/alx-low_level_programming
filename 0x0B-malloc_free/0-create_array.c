@@ -8,7 +8,6 @@
 *Return: NULL if size is zero or if it fails,
 *pointer to array if everything is normal.
 */
-
 char *create_array(unsigned int size, char c)
 {
 	char *array;
